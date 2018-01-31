@@ -1,0 +1,69 @@
+{
+  "wallpapers": [
+    {
+      		"name": "Artlu",
+            "author": "FezClone",
+            "url": "https://github.com/FezClone/MelloResources/raw/master/artlu.jpg"
+        },
+        {
+            "name": "Carbonate",
+            "author": "FezClone",
+            "url": "https://github.com/FezClone/MelloResources/raw/master/carbonate.jpg"
+        },
+        {
+            "name": "Ultra",
+            "author": "FezClone",
+            "url": "https://github.com/FezClone/MelloResources/raw/master/ultra.jpg"
+        },
+        {
+            "name": "Fuji",
+            "author": "FezClone",
+            "url": "https://github.com/FezClone/MelloResources/raw/master/fuji.jpg"
+        },
+        {
+            "name": "Kiwi",
+            "author": "FezClone",
+            "url": "https://github.com/FezClone/MelloResources/raw/master/kiwi.jpg"
+        },
+         {
+            "name": "Blossom",
+            "author": "FezClone",
+            "url": "https://github.com/FezClone/MelloResources/raw/master/vibrance.jpg"
+        },
+         {
+            "name": "Zest",
+            "author": "FezClone",
+            "url": "https://github.com/FezClone/MelloResources/raw/master/zest.jpg"
+        },
+         {
+            "name": "Grape Juice",
+            "author": "FezClone",
+            "url": "https://github.com/FezClone/MelloResources/raw/master/grapejuice.jpg"
+        },
+         {
+            "name": "Mono",
+            "author": "FezClone",
+            "url": "https://github.com/FezClone/MelloResources/raw/master/mono.jpg"
+        },
+         {
+            "name": "Tuxedo",
+            "author": "FezClone",
+            "url": "https://github.com/FezClone/MelloResources/raw/master/tuxedo.jpg"
+        },
+         {
+            "name": "Swing",
+            "author": "FezClone",
+            "url": "https://github.com/FezClone/MelloResources/raw/master/swing.jpg"
+        },
+         {
+            "name": "Submerge",
+            "author": "FezClone",
+            "url": "https://github.com/FezClone/MelloResources/raw/master/submerge.jpg"
+        },
+         {
+            "name": "Mello",
+            "author": "FezClone",
+            "url": "https://github.com/FezClone/MelloResources/raw/master/mello.jpg"
+        }
+  ]
+}
