@@ -64,6 +64,31 @@
             "name": "Mello",
             "author": "FezClone",
             "url": "https://github.com/FezClone/MelloResources/raw/master/mello.jpg"
+        },
+        {
+            "name": "Frosty Forest",
+            "author": "FezClone",
+            "url": "https://github.com/FezClone/MelloResources/raw/master/frostyforest.jpg"
+        },
+        {
+            "name": "Shuffle",
+            "author": "FezClone",
+            "url": "https://github.com/FezClone/MelloResources/raw/master/shuffle.jpg"
+        },
+        {
+            "name": "Upon",
+            "author": "FezClone",
+            "url": "https://github.com/FezClone/MelloResources/raw/master/upon.jpg"
+        },
+        {
+            "name": "Spear",
+            "author": "FezClone",
+            "url": "https://github.com/FezClone/MelloResources/raw/master/spear.jpg"
+        },
+        {
+            "name": "Shardly",
+            "author": "FezClone",
+            "url": "https://github.com/FezClone/MelloResources/raw/master/shardly.jpg"
         }
   ]
 }
