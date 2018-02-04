@@ -11,6 +11,21 @@
             "url": "https://github.com/FezClone/MelloResources/raw/master/shuffle.jpg"
         },
         {
+            "name": "Frosty Forest 2",
+            "author": "FezClone",
+            "url": "https://github.com/FezClone/MelloResources/raw/master/frostyforest2.jpg"
+        },
+        {
+            "name": "Reflect",
+            "author": "FezClone",
+            "url": "https://github.com/FezClone/MelloResources/raw/master/reflect.jpg"
+        },
+        {
+            "name": "Detail",
+            "author": "FezClone",
+            "url": "https://github.com/FezClone/MelloResources/raw/master/detail.jpg"
+        },
+        {
             "name": "Upstair",
             "author": "FezClone",
             "url": "https://github.com/FezClone/MelloResources/raw/master/upstair.jpg"
@@ -104,6 +119,11 @@
             "name": "Swing",
             "author": "FezClone",
             "url": "https://github.com/FezClone/MelloResources/raw/master/swing.jpg"
+        },
+        {
+            "name": "Flippo",
+            "author": "FezClone",
+            "url": "https://github.com/FezClone/MelloResources/raw/master/flippo.jpg"
         },
          {
             "name": "Mello",
